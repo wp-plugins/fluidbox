@@ -1,5 +1,5 @@
 === Fluidbox for WordPress ===
-Contributors: ddjjmm, flowdee
+Contributors: flowdee
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCQRWXARSHQTW
 Tags: fluidbox, lightbox, lightweight, gallery, images, lightview, overlay, colorbox, jquery
 Requires at least: 3.5.1
