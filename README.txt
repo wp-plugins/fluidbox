@@ -29,19 +29,15 @@ Fluidbox is a lightweight and modern lightbox plugin to enlarge your images for 
 
 = Support =
 
-* Browse [issue tracker](http://coder.flowdee.de/fluidbox-for-wordpress/demo/) on GitHub
-* Visit the official [Support forum](http://coder.flowdee.de/fluidbox-for-wordpress/demo/)
+* Browse [issue tracker](https://github.com/flowdee/fluidbox-for-wordpress/issues) on GitHub
+* Visit the official [Support forum](http://coder.flowdee.de/support/)
 
 = Donations =
 
-All of my plugins & themes are handmade with passion. I really looking forward to your feedback and suggestions.
-
-If you like my work and want to support me, I would be very happy to receive a kind gesture.
+All of my plugins & themes are handmade with passion. I really looking forward to your feedback and suggestions. If you like my work and want to support me, I would be very happy to receive a kind gesture. Thanks right now!
 
 *   [via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCQRWXARSHQTW)
 *   [via Flattr](https://flattr.com/submit/auto?user_id=flowdee&url=http%3A%2F%2Fwordpress.org%2Fplugins%2Ffluidbox%2F)
-
-Thanks right now!
 
 = Credits =
 
